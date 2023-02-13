@@ -1,0 +1,7 @@
+
+**/lib/**
+**/Packages/**
+**/bin/**
+**/obj/**
+**/.vs/**
+**/App_Data/*.xml
